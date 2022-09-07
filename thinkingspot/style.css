@@ -6,7 +6,6 @@ body {
 	margin:0;
 	padding:0;
 	background-color: #dbdbdb;
-	
 	font-family: 'Ibarra Real Nova', serif;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -85,7 +84,6 @@ header{
 	top: 50%;
 	left: 50%;
 	transform:  translate(-50%, -50%);
-
 }
 
 section {
@@ -111,7 +109,6 @@ nav ul{
 	height: 100%;
 	margin: 0;
 	padding: 0;
-
 }
 
 nav li{
@@ -156,7 +153,6 @@ main{
 }
 
 .rsm{
-
 	width: 100%;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
@@ -181,7 +177,6 @@ h5{
 	margin: 15px;
 	border-radius: 10px;
 	background-color: grey;
-
 }
 
 .devam:hover {

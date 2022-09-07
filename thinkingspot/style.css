@@ -95,7 +95,7 @@ section {
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 	box-shadow: 0 2px 8px 2px rgba(20,23,28, .15);
-	margin top: 15px;
+	margin-top: 15px;
 	overflow: auto;
 }
 
@@ -107,7 +107,7 @@ nav{
 }
 
 nav ul{
-	with: auto;
+	width: auto;
 	height: 100%;
 	margin: 0;
 	padding: 0;
@@ -120,7 +120,7 @@ nav li{
 
 nav li a {
 	height: 100px;
-	line line-height: 100px;
+	line-height: 100px;
 	text-decoration: none;
 	color: black;
 	border-bottom: 1px solid #b4b4b4;
